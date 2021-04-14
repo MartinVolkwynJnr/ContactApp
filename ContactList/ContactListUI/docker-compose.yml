@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  contactlistui:
+    container_name: contactlistui
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3001"

@@ -1,0 +1,19 @@
+version: "3"
+services:
+  mongodb:
+    container_name: mongodb
+    image: mongo:3.2
+    ports:
+      - "27017:27017"
+    networks:
+      - default
+
+  contactlistapi:
+    container_name: contactlistapi
+    image: contactlistapi
+    restart: always
+    build: .
+    networks:
+      - default
+    ports:
+      - "8080:80"

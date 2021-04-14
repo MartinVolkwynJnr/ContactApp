@@ -1,0 +1,14 @@
+C:\Projects\ContactList\ContactListApi\bin\Release\netcoreapp2.2\ContactListApi.deps.json
+C:\Projects\ContactList\ContactListApi\bin\Release\netcoreapp2.2\ContactListApi.runtimeconfig.json
+C:\Projects\ContactList\ContactListApi\bin\Release\netcoreapp2.2\ContactListApi.runtimeconfig.dev.json
+C:\Projects\ContactList\ContactListApi\bin\Release\netcoreapp2.2\ContactListApi.dll
+C:\Projects\ContactList\ContactListApi\bin\Release\netcoreapp2.2\ContactListApi.pdb
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.csprojAssemblyReference.cache
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.csproj.CoreCompileInputs.cache
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.RazorAssemblyInfo.cache
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.RazorAssemblyInfo.cs
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.AssemblyInfoInputs.cache
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.AssemblyInfo.cs
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.RazorTargetAssemblyInfo.cache
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.dll
+C:\Projects\ContactList\ContactListApi\obj\Release\netcoreapp2.2\ContactListApi.pdb
